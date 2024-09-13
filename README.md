@@ -7,7 +7,7 @@
 - <b>Web Development Portfolio</b>
   - [Responsive Web Design using HTML, CSS, and JavaScript](https://github.com/Steve-Lotter/Responsive-Web-Design/blob/main/README.md)
 - <b>C# Console Applications</b>
-  - [Pig Latin Translator](https://github.com/Steve-Lotter/pig-latin-translator)
+  - [Tuple to dictionary convertor](https://github.com/Steve-Lotter/pig-latin-translator)
   - [Builder Pattern in a Computer Shop System](https://github.com/Steve-Lotter/computer-shop-builder-pattern)
 - <b>Python Projects</b>
   - [Basic Algorithms Practice](https://github.com/Steve-Lotter/algorithms-practice-python)
