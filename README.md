@@ -5,7 +5,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Web Development Portfolio</b>
-  - [Responsive Web Design using HTML, CSS, and JavaScript](https://github.com/Steve-Lotter/web-portfolio)
+  - [Responsive Web Design using HTML, CSS, and JavaScript](https://github.com/Steve-Lotter/Responsive-Web-Design/blob/main/README.md)
 - <b>C# Console Applications</b>
   - [Pig Latin Translator](https://github.com/Steve-Lotter/pig-latin-translator)
   - [Builder Pattern in a Computer Shop System](https://github.com/Steve-Lotter/computer-shop-builder-pattern)
