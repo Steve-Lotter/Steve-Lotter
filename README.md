@@ -6,13 +6,10 @@
 
 - <b>Web Development Portfolio</b>
   - [Responsive Web Design using HTML, CSS, and JavaScript](https://github.com/Steve-Lotter/Responsive-Web-Design/blob/main/README.md)
-- <b>C# Console Applications</b>
+- <b>C# Applications</b>
   - [Tuple to dictionary convertor](https://github.com/Steve-Lotter/Tuple-to-Dictionary-convertor-using-.dll)
   - [Builder Pattern in a Computer Shop System](https://github.com/Steve-Lotter/computer-shop-builder-pattern)
-- <b>Python Projects</b>
-  - [Basic Algorithms Practice](https://github.com/Steve-Lotter/algorithms-practice-python)
-  - [Package Delivery Pathfinding Algorithm](https://github.com/Steve-Lotter/package-delivery-algorithm)
-
+  - [Transport pick up and drop off simulation using Google API](https://github.com/Steve-Lotter/computer-shop-builder-pattern)
 
 <h2> 🤳 Connect with me:</h2>
 
