@@ -6,7 +6,7 @@
 
 - <b>Web Development Portfolio</b>
   - [Responsive Web Design using HTML, CSS, and JavaScript](https://github.com/Steve-Lotter/Responsive-Web-Design/blob/main/README.md)
-  - [Hackathon Project Weather App using API with HTML, CSS, and JavaScript](https://github.com/Steve-Lotter/Responsive-Web-Design/blob/main/README.md)
+  - [Hackathon Project Weather App using API with HTML, CSS, and JavaScript](https://github.com/Steve-Lotter/Weather-App-API)
 - <b>C# Applications</b>
   - [Tuple to dictionary convertor](https://github.com/Steve-Lotter/Tuple-to-Dictionary-convertor-using-.dll)
   - [Builder Pattern in a Computer Shop System](https://github.com/Steve-Lotter/computer-shop-builder-pattern)
