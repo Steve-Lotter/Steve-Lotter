@@ -9,7 +9,7 @@
 - <b>C# Applications</b>
   - [Tuple to dictionary convertor](https://github.com/Steve-Lotter/Tuple-to-Dictionary-convertor-using-.dll)
   - [Builder Pattern in a Computer Shop System](https://github.com/Steve-Lotter/computer-shop-builder-pattern)
-  - [*Still in progress*Transport pick up and drop off simulation using Google API](https://github.com/Steve-Lotter/computer-shop-builder-pattern)
+  - [(*Still in progress*)Transport pick up and drop off simulation using Google API](https://github.com/Steve-Lotter/computer-shop-builder-pattern)
 
 <h2> 🤳 Connect with me:</h2>
 
