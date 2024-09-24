@@ -3,14 +3,11 @@
 <h1>Hi, I'm Steve! <br/><a href="https://github.com/Steve-Lotter">Junior Software Engineer</a>, <a href="https://www.linkedin.com/in/stefann-lotter-7792b6290/">Eager Learner</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
+-Current computer science and information systems student at The University of the Free State Kovsies
+-As of 2024 Sep Currently working on Django apps and learning python!
 
-- <b>Web Development Portfolio</b>
-  - [Responsive Web Design using HTML, CSS, and JavaScript](https://github.com/Steve-Lotter/Responsive-Web-Design/blob/main/README.md)
-  - [Hackathon Project Weather App using API with HTML, CSS, and JavaScript](https://github.com/Steve-Lotter/Weather-App-API)
-- <b>C# Applications</b>
-  - [Tuple to dictionary convertor](https://github.com/Steve-Lotter/Tuple-to-Dictionary-convertor-using-.dll)
-  - [Builder Pattern in a Computer Shop System](https://github.com/Steve-Lotter/computer-shop-builder-pattern)
-  - [(*Still in progress*)Transport pick up and drop off simulation using Google API](https://github.com/Steve-Lotter/computer-shop-builder-pattern)
+
+
 
 <h2> 🤳 Connect with me:</h2>
 
